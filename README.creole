@@ -1,3 +1,9 @@
+
+
+In progress .... alpha
+
+This fork   adapts Smoothieware to the processor STM32-F411
+===========================================================================================================
 Current build status: {{https://travis-ci.org/Smoothieware/Smoothieware.svg?branch=edge}}
 
 ==Overview
